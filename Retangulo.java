@@ -16,4 +16,4 @@ import java.util.Scanner;
         
         System.out.println("A área do retângulo é: " + area);
     }
-} 
+}
